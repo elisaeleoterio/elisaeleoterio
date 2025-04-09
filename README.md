@@ -1,10 +1,7 @@
 # Sobre mim
 
-- 🌹 Explorando novas tecnologias e aprendendo sobre programação!
 - ❤️ Estudando Ciência da Computação na UFPR.
-- 🐦 Acessora de Projetos na Ecomp.
-- 🍄 Bolsista no PET Computação.
-- 🍁 Aprendendo mais sobre Lua e LÖVE2D.
+- 🐦 Diretora de Projetos na Ecomp.
 
 <br/>
 

@@ -1,13 +1,18 @@
+## 💜 Olá, meu nome é Elisa!
 # Sobre mim
-
 - ❤️ Estudando Ciência da Computação na UFPR.
-- 🐦 Diretora de Projetos na Ecomp.
+- 💚 Diretora de Projetos na Ecomp.
 
-<br/>
+🔭 Atualmente estou participando como desenvolvedora back-end em um projeto de Mobile e estou estudando sobre desenvolvimento mobile e front-end.
 
-<a href="https://github.com/elisaeleoterio" title="Meu Perfil">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elisaeleoterio&theme=onedark&show_icons=true" />
-</a>
+---
+
+## 🚀 Habilidades
+
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+
+---
 
 ## Onde me encontrar
 
